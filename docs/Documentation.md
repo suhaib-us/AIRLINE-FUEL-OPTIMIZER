@@ -1689,15 +1689,6 @@ def optimize_flight(flight_plan):
 - 450 knots = 833 km/h = 518 mph
 - Mach 0.78 ≈ 450 knots at 36,000 ft
 
-### Contact & Support
-
-- **Project Repository:** [GitHub Link]
-- **Documentation:** [Docs Site]
-- **Issue Tracker:** [GitHub Issues]
-- **Email:** support@airline-fuel-optimizer.com
-- **Slack:** #fuel-optimization
-
----
 
 ## Changelog
 
@@ -1725,4 +1716,3 @@ def optimize_flight(flight_plan):
 
 ---
 
-© 2026 Airline Fuel Optimization Agent. All rights reserved.
