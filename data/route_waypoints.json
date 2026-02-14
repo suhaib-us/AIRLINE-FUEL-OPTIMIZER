@@ -1,0 +1,48 @@
+{
+  "AA1234": {
+    "route": [
+      {"name": "JFK", "latitude": 40.6413, "longitude": -73.7781},
+      {"name": "WAVEY", "latitude": 40.5000, "longitude": -74.2000},
+      {"name": "CHERI", "latitude": 39.8000, "longitude": -85.1000},
+      {"name": "RAYGE", "latitude": 37.5000, "longitude": -95.5000},
+      {"name": "ZENON", "latitude": 35.2000, "longitude": -105.8000},
+      {"name": "LAX", "latitude": 33.9416, "longitude": -118.4085}
+    ]
+  },
+  "UA5678": {
+    "route": [
+      {"name": "ORD", "latitude": 41.9742, "longitude": -87.9073},
+      {"name": "KUBBS", "latitude": 41.5000, "longitude": -90.5000},
+      {"name": "LACRA", "latitude": 40.8000, "longitude": -100.2000},
+      {"name": "CHIPZ", "latitude": 39.5000, "longitude": -110.5000},
+      {"name": "SFO", "latitude": 37.6213, "longitude": -122.3790}
+    ]
+  },
+  "DL9012": {
+    "route": [
+      {"name": "ATL", "latitude": 33.6407, "longitude": -84.4277},
+      {"name": "BSTER", "latitude": 34.2000, "longitude": -88.5000},
+      {"name": "FAWNE", "latitude": 36.5000, "longitude": -98.2000},
+      {"name": "MUMPS", "latitude": 40.2000, "longitude": -108.5000},
+      {"name": "KRATR", "latitude": 44.8000, "longitude": -118.2000},
+      {"name": "SEA", "latitude": 47.4502, "longitude": -122.3088}
+    ]
+  },
+  "WN3456": {
+    "route": [
+      {"name": "DEN", "latitude": 39.8561, "longitude": -104.6737},
+      {"name": "PUEBLO", "latitude": 38.2889, "longitude": -104.6103},
+      {"name": "ALBUQ", "latitude": 35.0844, "longitude": -106.6504},
+      {"name": "PHX", "latitude": 33.4484, "longitude": -112.0740}
+    ]
+  },
+  "AA7890": {
+    "route": [
+      {"name": "MIA", "latitude": 25.7959, "longitude": -80.2870},
+      {"name": "JARBO", "latitude": 27.5000, "longitude": -79.5000},
+      {"name": "SCTRZ", "latitude": 31.2000, "longitude": -77.8000},
+      {"name": "MANTA", "latitude": 36.5000, "longitude": -75.2000},
+      {"name": "BOS", "latitude": 42.3656, "longitude": -71.0096}
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+
+# Environment & Secrets
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS Files
+.DS_Store
+._*
+Thumbs.db
+
+# Generated Outputs
+optimization_report.json
+*_report.json
+
+# Logs
+*.log
+logs/
+
+# AWS
+.aws/
+lambda_function.zip
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
